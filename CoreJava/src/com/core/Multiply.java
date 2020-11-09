@@ -1,5 +1,9 @@
 package com.core;
 
+
+//This program is without * simbole
+
+
 public class Multiply {
 
 	public static void main(String[] args) {
