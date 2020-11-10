@@ -14,7 +14,7 @@ public class Multiply {
 			resul= resul+a;
 			b--;	
 		}
-		System.out.println(resul);	
+		System.out.println("Result of Two Number: "+resul);	
 	}
 
 }
